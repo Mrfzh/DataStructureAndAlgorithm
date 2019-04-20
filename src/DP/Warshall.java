@@ -13,6 +13,7 @@ public class Warshall {
 
     /**
      * 输入有向图的邻接矩阵，返回该有向图的传递闭包
+     * 参考：https://blog.csdn.net/foreverzili/article/details/68481930
      *
      * @param a
      * @return
